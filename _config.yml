@@ -1,0 +1,28 @@
+name: 'Mike Danzl private '
+favicon: null
+layout_spectrum: 0.384986535878852
+typography_spectrum: 0.9897456602193415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.45889146672561765
+  lightness: 0.345677874982357
+  saturation: 0.6035119865555316
+  rhythmicContrast: 0.8585810863878578
+purpose: []
